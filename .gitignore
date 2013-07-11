@@ -3,6 +3,9 @@
 *.lo
 *.o
 
+# compiled python
+*.pyc
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
